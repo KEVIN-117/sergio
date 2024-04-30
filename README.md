@@ -1,3 +1,20 @@
+## run app
+
+- install dependecies
+
+```bash
+npm install
+```
+
+- running app
+
+```bash
+npm run dev # run in development mode 
+
+# or
+
+npm run start # running in production mode
+```
 
 
 run a container of postgrest
